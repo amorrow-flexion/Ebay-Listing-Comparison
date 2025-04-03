@@ -1,2 +1,3 @@
 # Ebay-Listing-Comparison
-Start app just 
+Starter app just to get things in place
+
